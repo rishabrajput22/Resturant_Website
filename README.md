@@ -1,2 +1,2 @@
-# https://rishabrajput22.github.io/Resturant_Website/
+# https://royal-resturant-site.netlify.app/
 # Resturant_Website
